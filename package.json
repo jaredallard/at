@@ -1,0 +1,27 @@
+{
+  "name": "at",
+  "version": "1.0.0",
+  "description": "A profile switcher utilizing BASH.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredallard/at.git"
+  },
+  "keywords": [
+    "bash",
+    "profiles",
+    "work"
+  ],
+  "author": "Jared Allard <jaredallard@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaredallard/at/issues"
+  },
+  "homepage": "https://github.com/jaredallard/at#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
